@@ -9,7 +9,7 @@
 - 
 
 #### minikube:
-- `minikube start`
+- `minikube start --vm-driver=docker`
 - `minikube status`
 - `minikube ip`
 - `minikube dashboard`
